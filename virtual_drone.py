@@ -10,7 +10,7 @@ print("Evasive Target Simulator Online. Broadcasting...")
 start_lat = 19.0269  
 start_lon = 73.0641  
 current_alt = 100.0    
-speed_north = 25.0  # Increased speed so it travels further on the map   
+speed_north = 25.0  
 
 R = 6378137.0 
 update_rate_hz = 10
